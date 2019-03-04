@@ -1,0 +1,10 @@
+# Folders
+.idea/workspace.xml
+.idea/dataSources*
+.vscode/
+venv/
+__pycache__/
+
+# Files
+*.db
+*.csv
